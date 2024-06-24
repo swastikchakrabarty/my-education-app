@@ -12,6 +12,7 @@
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
     "@mui/material": "^5.15.20",
+    "@prisma/client": "^5.15.1",
     "@react-aria/interactions": "^3.21.3",
     "@react-aria/utils": "^3.24.1",
     "@reduxjs/toolkit": "^2.2.5",
